@@ -1,0 +1,7 @@
+twitter:
+  username: your_twitter_name # your twitter's screen_name  ex) 'niku_name'
+  password: your_twitter_pass # your twitter's password     ex) 'yakiNikuTabetai'
+tumblr:
+  email: your_tunblr_mail@example.jp # your tumblr's email_address ex) 'niku@niku.name'
+  password: your_tumblr_pass # your tumblr's pass_word     ex) 'UmaiYakiNikuTabetai'
+  baseurl: http://tumblr.niku.name # your tumblr's post_base_url ex) 'http://niku.tumblr.com' OR 'http://tumblr.niku.name'

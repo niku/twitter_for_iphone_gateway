@@ -1,0 +1,19 @@
+= twitter for iPhone gateway
+
+== Description
+
+It uploads your 'tumblr', from 'Twitter for iPhone'
+
+== How To Use
+
+1) write your twitter username,password and thublr email_address,password,url on config.yaml
+
+2) change any application name on config.ru
+
+3) exec "appcfg.rb update ." at this directory
+
+4) setting your iPhone app
+
+5) and tweet with image
+
+
